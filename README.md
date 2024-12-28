@@ -12,7 +12,7 @@
 | 地面   |  地面 |    dimen       |   jimen       |    ground     |          |
 | 世界   |  世界   |    shijie       |    sekai      |    world     |          |
 | 原野   |  畑 / 原   |    yuanye       |    hatake / hora      |    field / prefecture     |          |
-| 大地   | 大地 / 陸  |    dai       |   daichi / riku       |    land     |    Many variations... likely the same 陸 is in chinese too.      |
+| 大地   | 大地 / 陸  |    dadi       |   daichi / riku       |    land     |    Many variations... likely the same 陸 is in chinese too.      |
 | 土地   |  土   |    tudi       |   tsuchi       |   dirt/soil      |          |
 | 植物   |  植物 |    zhiwu       |    shyokubutsu      |   plants      |          |
 | 食物   |  食物 |    shiwu       |    shyokumotsu      |   food      |  There are tons of other variations like 食べ物, 食品, etc in Japanese; likely Chinese too.         |
