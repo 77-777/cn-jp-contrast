@@ -9,7 +9,10 @@
 | 天空   |  空   |    tiankong       |    sora      |   sky      |          |
 | 星星   |  星   |   xingxing        |   hoshi       |   star      |          |
 | 地球   |  地球 |    diqiu       |   chikyuu       |    earth     |          |
+| 地面   |  地面 |    dimen       |   jimen       |    ground     |          |
 | 世界   |  世界   |    shijie       |    sekai      |    world     |          |
+| 原野   |  畑 / 原   |    yuanye       |    hatake / hora      |    field / prefecture     |          |
+| 大地   | 大地 / 陸  |    dai       |   daichi / riku       |    land     |    Many variations... likely the same 陸 is in chinese too.      |
 | 土地   |  土   |    tudi       |   tsuchi       |   dirt/soil      |          |
 | 植物   |  植物 |    zhiwu       |    shyokubutsu      |   plants      |          |
 | 食物   |  食物 |    shiwu       |    shyokumotsu      |   food      |  There are tons of other variations like 食べ物, 食品, etc in Japanese; likely Chinese too.         |
@@ -21,7 +24,7 @@
 | 草   |  草   |     cao      |     kusa     |   grass      |          |
 |  山  | 山    |     shan      |    yama      |   mountain      |          |
 |  火山  | 火山    |     huoshan      |    kazan      |   volcano      |          |
-|  小山 / 丘陵  |  丘    |     xiaoshan / qiuling      |    oka      |  hill       |          |
+|  小山 / 丘陵 / 山丘  |  丘    |     xiaoshan / qiuling / shanqiu      |    oka      |  hill       |    MANY variations.      |
 |  石头  |  石   |     shitou      |    ishi      |   stone      |          |
 |  岩石  |  岩   |    yanshi       |   iwa       |   rock      |          |
 |  空气  |  空気   |   kongqi        |    kuuki      |   air      |          |
@@ -39,6 +42,7 @@
 | 电   |  電   |    dian       |    den      |   electricity      |          |
 | 海   |  海   |   hai        |    umi      |   sea      |          |
 | 湖   |  湖   |   hu        |    mizuumi      |   lake      |          |
+| 海洋   |  海洋   |    haiyang       |    kaiyou      |   ocean      |          |
 | 沙子   |  沙 / 砂   |    shazi       |    suna      |   sand      |          |
 | 冰   |  氷   |    bing       |    koori      |    ice     |          |
 | 雪   |  雪   |    xue       |    yuki      |    snow     |          |
@@ -59,6 +63,14 @@
 |  光  | 光    |   guang        |    hikari      |   light      |          |
 |  黑暗| 暗闇   |    heian       |    kurayami      |   darkness      |          |
 |  太空| 空間   |    taikong       |    kuukan      |   space      |          |
+|  影子 | 影   |    yingzi       |    kage      |   shadow      |          |
+|  泥 | 泥   |    ni       |    doro      |   mud      |          |
+|  蒸气 | 蒸気   |    zhengqi       |    jyouki      |   steam      |          |
+|  气体 | 気体   |    qiti       |    kitai      |   gas      |          |
+|  彩虹 |  虹  |    caihong       |    niji      |   rainbow      |          |
+
+
+
 
 
 
