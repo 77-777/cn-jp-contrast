@@ -69,38 +69,85 @@
 |  气体 | 気体   |    qiti       |    kitai      |   gas      |          |
 |  彩虹 |  虹  |    caihong       |    niji      |   rainbow      |          |
 
+## The Animals
 
-
-
-
+| Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
+| --- | --- | --------  | -------- | ------- | -------- |
+| 狗   | 犬 |    gou       |   inu       |   dog      |    I highly suspect 犬 has existed in Chinese too.      |
+| 猫   | 猫 |    mao       |   neko       |   cat      |          |
+| 鸟   | 鳥 |    niao       |   tori       |   bird      |          |
+|  乌 / 乌鸦  | 慈鳥 |   wu / wuya         |   jichyou       |   crow/raven      |          |
+| 狼   | 狼 |    lang       |   ookami       |   wolf      |          |
+| 马   | 馬 |    ma       |   uma       |   horse      |          |
+|  猪  | 豚 |     zhu      |   buta       |   pig      |          |
+| 牛   | 牛 |    niu       |   ushi       |   cow      |          |
+|  羊  | 羊 |    yang       |   hitsuji       |   sheep      |          |
+| 熊   | 熊 |     xiong      |   kuma       |   bear      |          |
+| 熊猫   | パンダ |   xiongmao        |    panda      |   panda      |          |
+| 龙   | 龍 |    long       |    ryuu      |   dragon      |          |
+| 鱼   | 魚 |    yu       |     sakana     |   fish      |          |
+|  鼠  | 鼠 |    shu       |    nezumi      |   rat/mouse      |          |
+| 象   | 象 |     xiang      |     zou     |   elephant      |          |
+|  山羊  | 山羊 |    shanyang       |     yagi     |   goat      |          |
+|    | 虫 |           |     mushi     |   insect      |          |
+| 狮子 | 獅子 |  shizi         |   shishi       |   lion      |          |
+| 猴 / 猴子   | 猿 |   hou / houzi        |    saru      |   monkey      |          |
+| 鳄鱼   | 鰐 |    eyu       |    wani      |   crocodile      |          |
+|  骆驼  | 駱駝 |   luotuo        |   rakuda       |   camel      |          |
+| 蟹   | 蟹 |     xie      |     kani     |   crab      |          |
+|    | 海豚 |           |   iruka       |   dolphin      |          |
+|  章鱼  | 蛸  |    zhangyu       |   tako       |   octopus      |          |
+| 老虎   | 虎 |    laohu       |    tora      |   tiger      |          |
+|  兔   | 兎 |    tu       |  usagi        |   rabbit      |          |
+|  蛇  | 蛇 |    she       |  hebi        |   snake      |          |
+|    | 麒麟 |           |     kirin     |   giraffe      |          |
+|  鸭子  | 鴨 |    yazi       |   kamo       |   duck      |   Dictionary told me 鸭子 means a male prostitute in slang. xD       |
+| 海龟   | 亀 |    haigui       |   kame       |   turtle      |    Dictionary told me "龟" also means cuckold in slang. xD      |
+| 狐 / 狐狸   | 狐 |    hu / huli       |   kitsune       |   fox      |          |
+| 鹿   | 鹿 |    lu       |   shika       |   deer      |          |
+|    | 蚊食鳥 |           |    kakuidori      |   bat      |          |
+|    | 海豹 |           |    azarashi      |   seal      |          |
+|  刺猬  | 針鼠 |   ciwei        |    harinezumi      |   hedgehog      |   Literarily "Needle rat" in Japanese.       |
+| 枭 / 鸮   | 梟  |     xiao / xiao      |    fukurou      |   owl      |          |
 
 ## The Humans
 
-| CN  | JP  | CN-Pron.  | JP-Pron. | English | Comments |
+| Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
 | --- | --- | --------  | -------- | ------- | -------- |
-| a   |     |           |          |         |          |
-| b   |     |           |          |         |          |
-
-## The Animals
-
-| CN  | JP  | CN-Pron.  | JP-Pron. | English | Comments |
-| --- | --- | --------  | -------- | ------- | -------- |
-| a   |     |           |          |         |          |
-| b   |     |           |          |         |          |
+|   |  |           |          |         |          |
 
 ## The Machinery
 
-| CN  | JP  | CN-Pron.  | JP-Pron. | English | Comments |
+| Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
 | --- | --- | --------  | -------- | ------- | -------- |
-| a   |     |           |          |         |          |
-| b   |     |           |          |         |          |
+|   |  |           |          |         |          |
 
 ## Metals
 
+| Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
+| --- | --- | --------  | -------- | ------- | -------- |
+|   |  |           |          |         |          |
+
 ## Colours
+
+| Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
+| --- | --- | --------  | -------- | ------- | -------- |
+|   |  |           |          |         |          |
 
 ## Numbers
 
+| Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
+| --- | --- | --------  | -------- | ------- | -------- |
+|   |  |           |          |         |          |
+
 ## Verbs
 
+| Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
+| --- | --- | --------  | -------- | ------- | -------- |
+|   |  |           |          |         |          |
+
 ## Areas
+
+| Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
+| --- | --- | --------  | -------- | ------- | -------- |
+|   |  |           |          |         |          |
