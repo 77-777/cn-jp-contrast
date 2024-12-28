@@ -7,3 +7,13 @@
 ## The Animals
 
 ## The Machinery
+
+## Metals
+
+## Colours
+
+## Numbers
+
+## Verbs
+
+## Areas
