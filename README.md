@@ -109,6 +109,9 @@
 |  海豹  | 海豹 |  haibao         |    azarashi      |   seal      |          |
 |  刺猬  | 針鼠 |   ciwei        |    harinezumi      |   hedgehog      |   Literarily "Needle rat" in Japanese.       |
 | 枭 / 鸮   | 梟  |     xiao / xiao      |    fukurou      |   owl      |          |
+| 青蛙   | 蛙  |    qingwa       |   kaeru       |   frog      |          |
+|    | 鶴  |          |   tsuru       |   crane      |          |
+
 
 ## The Humans
 
@@ -120,7 +123,24 @@
 
 | Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
 | --- | --- | --------  | -------- | ------- | -------- |
-|   |  |           |          |         |          |
+| 车  | 車 |    che       |    kuruma      |    car     |          |
+| 自行车  | 自転車 |    zixingche       |    jitenshya      |    bike     |          |
+| 火车  | 電車 |    huoche       |    denshya      |    train     |          |
+| 飞行 | 飛行機 |   feiji        |    hikouki      |    plane     |          |
+| 电车  | 市電 |   dianche        |    shiden      |    tram     |          |
+| 地铁  | 地下鉄 |   ditie        |    chikatetsu      |    metro     |          |
+| 公共汽车  | バス |   gonggongqiche        |    basu      |    bus     |          |
+| 卡车  | トラック |   kache        |    torakku      |    truck     |          |
+| 船  | 船 |    chuan       |    fune      |    boat     |          |
+|  小船 / 划子 | 手漕ぎボート  |     xiaochuan / huazi      |   tekogibo-to       |    rowboat     |          |
+| 舫 / 大船   | 船舶 |    fang / dachuan       |    senpaku      |    ship     |          |
+| 宝船  | 安宅船  |    baochuan       |    atakebune      |    frigate / galleon / atakebune / treasure ship    |          |
+| 热气球  | 熱気球  |   reqiqiu        |    netsukikyuu      |    hot air balloon     |          |
+| 起重机  | 起重機 |  qizhongji         |    kijyuuki      |    crane/derrick     |          |
+| 牵引车  | トラクター |    qianyinche       |    torakuta-      |    tractor     |          |
+| 推土机  | ブルドーザー |  tuituji         |    burudo-za-      |    bulldozer     |          |
+| 手推车  | 手車 |   shoutuiche        |   teguruma       |    handcart     |          |
+| 战车  | 戦車 |   zhanche        |    senshya      |    tank     |          |
 
 ## Metals
 
