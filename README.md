@@ -33,7 +33,7 @@
 | 火  |  火  |     huo      |    hi      |    fire     |          |
 | 风  |  風   |    feng       |   kaze       |    wind     |          |
 | 暴风   |  嵐   |    baofeng       |    arashi      |   storm      |          |
-| 雷  |  雷  |    lei       |    arashi      |   thunder      |          |
+| 雷  |  雷  |    lei       |    kaminari      |   thunder      |          |
 | 闪电 |  雷   |    shandian       |    kaminari      |   lightning      |          |
 | 雷电   |  雷電     |      leidian            |     raiden       | thunder + lightning |       |
 | 电   |  電   |    dian       |    den      |   electricity      |          |
@@ -44,17 +44,22 @@
 | 雪   |  雪   |    xue       |    yuki      |    snow     |          |
 |  雾  |   霧 / 霞  |    wu       |    kiri / kasume      |    fog / mist     |          |
 |  行星 / 惑星  |  惑星   |   xingxing / huoxing        |    wakusei      |   planet      |          |
-|    |  穴   |           |    ana      |    hole     |          |
-|    |     |           |    ame      |  jungle       |          |
-|    |     |           |    ame      |  beach       |          |
+|  穴 / 洞  |  穴 / 洞   |    xue / dong       |    ana / hora      |    hole     |          |
+|  密林  |  密林   |    milin       |    mitsurin      |  jungle       |          |
+|  海边 / 岸  |  海岸   |    haibian / an      |     kaigan     |  beach       |          |
 |  沙漠  |  砂漠   |    shamo       |    sabaku      |   desert      |          |
+|  沙丘  | 砂山 / 砂丘    |    shaqiu       |    sunayama / sakyuu      |   dune      |  I'm sure there's tons of variations of this in both languages. |
 | 洪水   |  洪水   |    hongshui       |   kouzui       |   flood      |          |
 | 地震   | 地震    |   dizhen        |    jishin      |   earthquake      |          |
-|    |     |           |          |   tornado      |          |
+|  旋风  |  颶風   |     xuanfeng      |  gufuu        |   tornado      |          |
+|  飓风  |  台風   |    jufeng       |    taifuu      |   huricane/typhoon     |          |
+| 龙卷   |  竜巻   |    longjuan       |    tatsumaki      |   whirlwind      |          |
 | 雪崩   |  雪崩   |   xuebeng        |    nadare      |   avalanche      |          |
-|    | 津波    |           |    tsunami      |   tsunami      |          |
+|  海啸  | 津波    |    haixiao       |    tsunami      |   tsunami      |          |
 |  光  | 光    |   guang        |    hikari      |   light      |          |
 |  黑暗| 暗闇   |    heian       |    kurayami      |   darkness      |          |
+|  太空| 空間   |    taikong       |    kuukan      |   space      |          |
+
 
 
 ## The Humans
