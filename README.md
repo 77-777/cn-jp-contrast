@@ -141,6 +141,8 @@
 | 推土机  | ブルドーザー |  tuituji         |    burudo-za-      |    bulldozer     |          |
 | 手推车  | 手車 |   shoutuiche        |   teguruma       |    handcart     |          |
 | 战车  | 戦車 |   zhanche        |    senshya      |    tank     |          |
+| 大炮  | 大砲 |   dapao        |    taihou      |    cannon     |          |
+
 
 ## Metals
 
@@ -158,13 +160,33 @@
 
 | Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
 | --- | --- | --------  | -------- | ------- | -------- |
-|   |  |           |          |         |          |
+| 零  | 零 |    ling       |     rei / zero     |    zero     |          |
+| 一  | 一 |   yi        |    ichi      |    one     |          |
+| 二  | 二 |   er        |    ni      |    two     |          |
+| 三  | 三 |   san        |    san      |    three     |          |
+| 四  | 四 |   si        |    shi/yotsu      |    four     |          |
+| 五  | 五 |   wu        |    go      |    five     |          |
+| 六  | 六 |   liu       |    roku      |    six     |          |
+| 七  | 七 |   qi        |    shichi / nana      |    seven     |          |
+| 八  | 八 |   ba        |    hachi      |    eight     |          |
+| 九  | 九 |   jiu        |    kyuu      |    nine     |          |
+| 十  | 十 |   shi        |    jyuu      |    ten     |          |
+| 百  | 百 |   bai        |    hyaku      |    hundred     |          |
+| 千 | 千 |    qian       |    sen      |    thousand     |          |
+| 万  | 万  |    wan       |    man      |    ten thousand     |          |
+| 百万  | 億 |     baiwan      |    oku      |    million     |   There's 亿 in chinese, but it means 100 million instead. :(       |
+
+
 
 ## Verbs
 
 | Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
 | --- | --- | --------  | -------- | ------- | -------- |
 |   |  |           |          |         |          |
+
+## Weeks
+
+## Months
 
 ## Areas
 
