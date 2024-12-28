@@ -89,24 +89,24 @@
 |  鼠  | 鼠 |    shu       |    nezumi      |   rat/mouse      |          |
 | 象   | 象 |     xiang      |     zou     |   elephant      |          |
 |  山羊  | 山羊 |    shanyang       |     yagi     |   goat      |          |
-|    | 虫 |           |     mushi     |   insect      |          |
+|  昆虫  | 虫 |    kunchong       |     mushi     |   insect      |          |
 | 狮子 | 獅子 |  shizi         |   shishi       |   lion      |          |
 | 猴 / 猴子   | 猿 |   hou / houzi        |    saru      |   monkey      |          |
 | 鳄鱼   | 鰐 |    eyu       |    wani      |   crocodile      |          |
 |  骆驼  | 駱駝 |   luotuo        |   rakuda       |   camel      |          |
 | 蟹   | 蟹 |     xie      |     kani     |   crab      |          |
-|    | 海豚 |           |   iruka       |   dolphin      |          |
+|  海豚  | 海豚 |  haitun         |   iruka       |   dolphin      |          |
 |  章鱼  | 蛸  |    zhangyu       |   tako       |   octopus      |          |
 | 老虎   | 虎 |    laohu       |    tora      |   tiger      |          |
 |  兔   | 兎 |    tu       |  usagi        |   rabbit      |          |
 |  蛇  | 蛇 |    she       |  hebi        |   snake      |          |
-|    | 麒麟 |           |     kirin     |   giraffe      |          |
+|  长颈鹿  | 麒麟 |   changjinglu        |     kirin     |   giraffe      |          |
 |  鸭子  | 鴨 |    yazi       |   kamo       |   duck      |   Dictionary told me 鸭子 means a male prostitute in slang. xD       |
 | 海龟   | 亀 |    haigui       |   kame       |   turtle      |    Dictionary told me "龟" also means cuckold in slang. xD      |
 | 狐 / 狐狸   | 狐 |    hu / huli       |   kitsune       |   fox      |          |
 | 鹿   | 鹿 |    lu       |   shika       |   deer      |          |
-|    | 蚊食鳥 |           |    kakuidori      |   bat      |          |
-|    | 海豹 |           |    azarashi      |   seal      |          |
+|  蝙蝠  | 蚊食鳥 / 蝙蝠 |   bianfu        |    kakuidori / koumori      |   bat      |          |
+|  海豹  | 海豹 |  haibao         |    azarashi      |   seal      |          |
 |  刺猬  | 針鼠 |   ciwei        |    harinezumi      |   hedgehog      |   Literarily "Needle rat" in Japanese.       |
 | 枭 / 鸮   | 梟  |     xiao / xiao      |    fukurou      |   owl      |          |
 
