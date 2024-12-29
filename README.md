@@ -289,40 +289,60 @@
 
 | Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
 | --- | --- | --------  | -------- | ------- | -------- |
-|   |  |           |          |    To eat     |          |
-|   |  |           |          |    To drink     |          |
-|   |  |           |          |    To run     |          |
-|   |  |           |          |    To walk     |          |
+| 吃  | 食べる |           |          |    To eat     |          |
+| 喝  | 飲んでる |           |         |    To drink     |          |
+| 运行 | 走る |           |          |    To run     |          |
+| 走路  | 歩く |           |          |    To walk     |          |
 |   |  |           |          |    To jump     |          |
-|   |  |           |          |    To fly     |          |
-|   |  |           |          |    To do     |          |
-|   |  |           |          |    To go     |          |
-|   |  |           |          |    To work     |          |
-|   |  |           |          |    To make     |          |
-|   |  |           |          |    To die     |          |
-|   |  |           |          |    To be born     |          |
-|   |  |           |          |    To leave     |          |
-|   |  |           |          |    To return     |          |
-|   |  |           |          |    To enter     |          |
-|   |  |           |          |    To exit     |          |
-|   |  |           |          |    To drive     |          |
-|   |  |           |          |    To stand     |          |
-|   |  |           |          |    To sit     |          |
-|   |  |           |          |    To grab / take     |          |
+| 飞翔  | 飛べる |           |          |    To fly     |          |
+| 要做  | する |           |          |    To do     |          |
+| 去 / 走  | 行く |           |          |    To go     |          |
+| 工作  | 働く |           |          |    To work     |          |
+| 移动  | 動く |           |          |    To move     |          |
+| 做  | 作る |           |          |    To make     |          |
+| 死  | 死ぬ |           |          |    To die     |          |
+| 出生  | 産まる |           |          |    To be born     |          |
+| 离开  | 出る |           |          |    To leave     |          |
+| 返回  | 帰る |           |          |    To return     |          |
+| 进入  | 入る |           |          |    To enter     |          |
+| 退出  | 出る |           |          |    To exit     |          |
+|   | 運転する |           |          |    To drive     |          |
+| 站立  | 立てる |           |          |    To stand     |          |
+| 坐  | 座る |           |          |    To sit     |          |
+| 采取  | 取る |           |          |    To grab / take     |          |
+| 拉  | 置く |           |          |    To pull     |          |
 |   |  |           |          |    To put     |          |
-|   |  |           |          |    To swim     |          |
-|   |  |           |          |    To see     |          |
-|   |  |           |          |    To hear     |          |
-|   |  |           |          |    To cry     |          |
-|   |  |           |          |    To create     |          |
-|   |  |           |          |    To think     |          |
-|   |  |           |          |    To forget     |          |
-|   |  |           |          |    To remember     |          |
-|   |  |           |          |    To learn     |          |
+|   | 泳ぐ |           |          |    To swim     |          |
+|   | 見る |           |          |    To see     |          |
+|   | 聞く |           |          |    To hear     |          |
+| 询问  | 聞く |           |          |    To ask     |          |
+| 哭  | 泣く |           |          |    To cry     |          |
+| 笑  |  |           |          |    To laugh     |          |
+| 微笑  |  |           |          |    To smile     |          |
+|   | 造る |           |          |    To create     |          |
+| 思考  | 考える |           |          |    To think     |          |
+| 忘记  | 忘れる |           |          |    To forget     |          |
+| 记住  | 思い出す |           |          |    To remember     |          |
+| 学习  | 学ぶ |           |          |    To learn     |          |
 |   |  |           |          |    To train     |          |
-|   |  |           |          |    To appear     |          |
-|   |  |           |          |    To sail     |          |
-|   |  |           |          |    To dissapear     |          |
+| 出现  | 現れる |           |          |    To appear     |          |
+| 航行  |  |           |          |    To sail     |          |
+| 消失  | 消える |           |          |    To dissapear     |          |
+|   |  |           |          |    To live (be alive)     |          |
+|   |  |           |          |    To live (habituate)     |          |
+| 结婚 | 結婚 |           |          |    To marry     |          |
+| 扩大 |  |           |          |    To expand     |          |
+| 拍摄 |  |           |          |    To shoot     |          |
+| 亲吻 |  |           |          |    To kiss     |          |
+| 流动 |  |           |          |    To flow     |          |
+|   |  |           |          |         |          |
+|   |  |           |          |         |          |
+|   |  |           |          |         |          |
+|   |  |           |          |         |          |
+|   |  |           |          |         |          |
+|   |  |           |          |         |          |
+
+
 
 ## Areas / Buildings
 
