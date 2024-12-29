@@ -165,7 +165,7 @@
 | 车  | 車 |    che       |    kuruma      |    car     |          |
 | 自行车  | 自転車 |    zixingche       |    jitenshya      |    bike     |          |
 | 火车  | 電車 |    huoche       |    denshya      |    train     |          |
-| 飞行 | 飛行機 |   feiji        |    hikouki      |    plane     |          |
+| 飞机 | 飛行機 |   feiji        |    hikouki      |    plane     |          |
 | 电车  | 市電 |   dianche        |    shiden      |    tram     |          |
 | 地铁  | 地下鉄 |   ditie        |    chikatetsu      |    metro     |          |
 | 公共汽车  | バス |   gonggongqiche        |    basu      |    bus     |          |
@@ -301,6 +301,10 @@
 | 移动  | 動く |           |          |    To move     |          |
 | 做  | 作る |           |          |    To make     |          |
 | 死  | 死ぬ |           |          |    To die     |          |
+| 做梦  | 夢見る |           |          |    To dream     |          |
+| 爆炸  | 爆発する |           |          |    To explode     |          |
+| 买  | 買う |           |          |    To buy     |          |
+| 出售 | 売る |           |          |    To sell     |          |
 | 出生  | 産まる |           |          |    To be born     |          |
 | 离开  | 出る |           |          |    To leave     |          |
 | 返回  | 帰る |           |          |    To return     |          |
@@ -310,8 +314,8 @@
 | 站立  | 立てる |           |          |    To stand     |          |
 | 坐  | 座る |           |          |    To sit     |          |
 | 采取  | 取る |           |          |    To grab / take     |          |
-| 拉  | 置く |           |          |    To pull     |          |
-|   |  |           |          |    To put     |          |
+| 拉  | 引く |           |          |    To pull     |          |
+|   | 置く |           |          |    To put     |          |
 |   | 泳ぐ |           |          |    To swim     |          |
 |   | 見る |           |          |    To see     |          |
 |   | 聞く |           |          |    To hear     |          |
@@ -320,7 +324,7 @@
 | 笑  |  |           |          |    To laugh     |          |
 | 微笑  |  |           |          |    To smile     |          |
 |   | 造る |           |          |    To create     |          |
-| 思考  | 考える |           |          |    To think     |          |
+| 思考  | 考える / 思う |           |          |    To think     |          |
 | 忘记  | 忘れる |           |          |    To forget     |          |
 | 记住  | 思い出す |           |          |    To remember     |          |
 | 学习  | 学ぶ |           |          |    To learn     |          |
@@ -335,12 +339,12 @@
 | 拍摄 |  |           |          |    To shoot     |          |
 | 亲吻 |  |           |          |    To kiss     |          |
 | 流动 |  |           |          |    To flow     |          |
-|   |  |           |          |         |          |
-|   |  |           |          |         |          |
-|   |  |           |          |         |          |
-|   |  |           |          |         |          |
-|   |  |           |          |         |          |
-|   |  |           |          |         |          |
+|   |  |           |          |   To bow (down)      |          |
+|   |  |           |          |   To attack      |          |
+|   |  |           |          |   To conquer      |          |
+|   |  |           |          |   To meet      |          |
+|   |  |           |          |   To encounter      |          |
+|   |  |           |          |   To distribute      |          |
 
 
 
