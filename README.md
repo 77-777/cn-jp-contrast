@@ -146,7 +146,7 @@
 | 堂兄弟姊妹  | 従兄弟 / 従姉妹 |   tangxiongdijiemei        |   itoko       |   cousin      |   Could've sworn I  was told there was a way to keep this short in chinese. Possibly just prefix with 堂       |
 | 叔父  | 叔父 / 伯父 |   shufu        |   oji(san) / oji(san)       |   uncle      |          |
 | 阿姨 / 叔母  | 叔母 / 伯母さん |   ayi / shumu        |   oba / obasan       |   aunt      |          |
-| 祖母  | 祖母 / お祖母さん |     zumu      |  sobo / oba**a**san       |   grandmother      |          |
+| 祖母 / 奶奶  | 祖母 / お祖母さん |     zumu / nainai      |  sobo / oba**a**san       |   grandmother      |          |
 | 祖父  | 祖父 / お祖父さん |     zufu      |    sofu / oji**i**san      |   grandfather      |          |
 | 妻子 / 夫人  | 婦人 / 夫人 / 奥さん |    qizi / furen       |   fujin / fujin / okusan       |   wife     |          |
 | 丈夫  | ご主人 |    zhangfu       |   goshujin / otto       |   husband      |          |
@@ -251,15 +251,16 @@
 
 | Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
 | --- | --- | --------  | -------- | ------- | -------- |
-|   |  |           |          |   week      |          |
-|   |  |           |          |   monday      |          |
-|   |  |           |          |   tuesday      |          |
-|   |  |           |          |   wedneday     |          |
-|   |  |           |          |   thursday      |          |
-|   |  |           |          |   friday      |          |
-|   |  |           |          |   saturday      |          |
-|   |  |           |          |   sunday      |          |
-|   |  |           |          |   weekend      |          |
+| 周 / 星期  | 週 / 週間 |    zhou       |   shyuu / shyuukan       |   week      |          |
+| 周日   | 曜日 |    zhouri       |    youbi      |    weekday     |          |
+| 星期一 / 周一 / 月曜日  | 月曜日 |  xingqiyi / zhouyi / yueyaori        |    getsuyoubi      |   monday      |          |
+| 星期二 / 周二 / 火曜日  | 火曜日 |  xingqier / zhouer / huoyaori        |    kayoubi      |   tuesday      |          |
+| 星期三 / 周三 / 水曜日  | 水曜日 |  xingqisan / zhousan / shuiyaori       |    suiyoubi      |    wedneday     |          |
+| 星期四 / 周四 / 木曜日  | 木曜日 |  xingqisi / zhousi / muyaori       |    mokuyoubi      |   thursday     |          |
+| 星期五 / 周五 / 金曜日  | 金曜日 |  xingqiwu / zhouwu / jinyaori       |    kinyoubi      |   friday      |          |
+| 星期六 / 周六 / 土曜日  | 土曜日 |  xingqiliu / zhouliu / tuyaori      |    doyoubi      |   saturday      |          |
+| 星期日 / 周七 / 日曜日  | 日曜日 |  xingqiri /  zhou / riyaori        |    nichiyoubi      |   sunday      |          |
+| 周末  | 週末 |    zhoumo       |    shyuumatsu      |   weekend      |          |
 
 ## Months / Seasons
 
