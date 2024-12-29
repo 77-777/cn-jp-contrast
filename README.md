@@ -66,7 +66,6 @@
 |  黑暗| 暗闇   |    heian       |    kurayami      |   darkness      |          |
 |  太空| 空間   |    taikong       |    kuukan      |   space      |          |
 |  影子 | 影   |    yingzi       |    kage      |   shadow      |          |
-|  泥 | 泥   |    ni       |    doro      |   mud      |          |
 |  蒸气 | 蒸気   |    zhengqi       |    jyouki      |   steam      |          |
 |  气体 | 気体   |    qiti       |    kitai      |   gas      |          |
 |  彩虹 |  虹  |    caihong       |    niji      |   rainbow      |          |
@@ -119,7 +118,42 @@
 
 | Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
 | --- | --- | --------  | -------- | ------- | -------- |
+| 人  | 人 |     ren      |   hito       |   person      |          |
+| 人民 | 人々 / 人人 |     renmin      |   hitobito       |   people      |          |
+| 人类 / 人间  | 人間 |    renlei / renjian       |   ningen       |   human      |          |
+| 男人 / 男性  | 男性 |   nanren / nanxing       |   dansei       |   male      |          |
+|  女人 / 女性 | 女性 / 雌 |   nuren / nuxing       |   jyosei / mesu       |   female      |          |
+| 男子  | 男 / 男子 |   nanzi        |   otoko / danshi      |   man      |          |
+| 女子  | 女 / 女子 |   nuzi        |   onna / jyoshi       |   woman      |          |
+| 子 / 孩子  | 子 / 子供 |   zi / haizi        |   ko / kodomo       |   child      |          |
+| 大人 / 成人  | 大人 |  daren / chengren       |   otona       |   adult      |          |
+| 女孩 / 少女  | 女の子 / 少女 |   nuhai / shaonu        |   onnanoko / shyoujo       |   girl      |          |
+| 男孩 / 少年  | 男の子 / 少年 |   nanhai / shaonian        |   otokonoko / shyounen       |   boy      |          |
+| 母亲  | 母 / お母さん |           |   haha / okaasan       |   mother      |          |
+| 父亲  | 父 / お父さん / 父親          |   chichi / otousan / chichioya       |   father      |          |
+| 父母  | 親 / 両親 / 父母          |   oya / ryoushin / fubo      |   parent/s      |          |
+| repeats itself as below  | repeats itself as below |     ditto      |   ditto       |   **sister**      |          |
+| repeats itself as below  | repeats itself as below |     ditto      |   ditto       |   **brother**      |          |
+| 妹妹  | 妹 |   meimei        |   imouto       |   younger sister      |          |
+| 弟弟  | 弟 |   didi        |   otouto       |   younger brother      |          |
+| 姐姐  | 姉 |    jiejie       |   ane / oneesan      |   elder sister      |          |
+| 哥哥 / 兄  | 兄 |    gege / xiong       |   ani / oniisan      |   elder brother      |          |
+| 兄弟  | 兄弟 |    xiongdi       |   kyoudai       |   brothers      |          |
+| 姐妹  | 姉妹 |    jiemei       |   shimai       |   sisters      |          |
+| 兄弟姉妹  | 兄弟姉妹 |   xiongdijiemei        |   kyoudaishimai       |   brothers and sisters      |          |
+| 堂兄弟姊妹  | 従兄弟 / 従姉妹 |   tangxiongdijiemei        |   itoko       |   cousin      |   Could've sworn I  was told there was a way to keep this short in chinese. Possibly just prefix with 堂       |
+|   | 叔父 / 伯父 |           |   oji?       |   uncle      |          |
+|   | 叔母 / 伯母さん |           |   oji?       |   aunt      |          |
+|   |  |           |   /obaasan       |   grandmother      |          |
+|   |  |           |          |   grandfather      |          |
+|   |  |           |   fujin / okusan       |   wife     |          |
+|   |  |           |   goshujin / otto       |   husband      |          |
+|   |  |           |   jinkou       |    population     |          |
+|   |  |           |   kuni       |    nation / country     |          |
+|   |  |           |          |    kingdom     |          |
+|   |  |           |          |    empire     |          |
 |   |  |           |          |         |          |
+
 
 ## The Machinery
 
@@ -150,7 +184,24 @@
 
 | Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
 | --- | --- | --------  | -------- | ------- | -------- |
-|   |  |           |          |         |          |
+|   |  |           |          |   iron      |          |
+|   |  |           |          |   copper      |          |
+|   |  |           |          |   tin      |          |
+|   |  |           |          |   gold      |          |
+|   |  |           |          |   silver      |          |
+|   |  |           |          |   steel      |          |
+|   |  |           |          |   bronze      |          |
+|   |  |           |          |    tungsten     |          |
+|   |  |           |          |    diamond     |          |
+|   |  |           |          |   metal      |          |
+|   |  |           |          |   mine      |          |
+|   |  |           |          |   ingot      |          |
+|   |  |           |          |   ore      |          |
+|   |  |           |          |   clay      |          |
+|  泥 | 泥   |    ni       |    doro      |   mud      |          |
+|  泥 | 泥   |    ni       |    doro      |   ruby      |          |
+|  泥 | 泥   |    ni       |    doro      |   emerald      |          |
+|  泥 | 泥   |    ni       |    doro      |   sapphire      |          |
 
 ## The Colours
 
@@ -211,11 +262,11 @@
 | --- | --- | --------  | -------- | ------- | -------- |
 |   |  |           |          |         |          |
 
-## Areas
+## Areas / Buildings
 
 | Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
 | --- | --- | --------  | -------- | ------- | -------- |
-|   |  |           |          |         |          |
+|   |  |           |          |   house      |          |
 
 ## Tools
 
