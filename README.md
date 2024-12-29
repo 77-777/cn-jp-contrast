@@ -144,17 +144,18 @@
 | 姐妹  | 姉妹 |    jiemei       |   shimai       |   sisters      |          |
 | 兄弟姉妹  | 兄弟姉妹 |   xiongdijiemei        |   kyoudaishimai       |   brothers and sisters      |          |
 | 堂兄弟姊妹  | 従兄弟 / 従姉妹 |   tangxiongdijiemei        |   itoko       |   cousin      |   Could've sworn I  was told there was a way to keep this short in chinese. Possibly just prefix with 堂       |
-|   | 叔父 / 伯父 |           |   oji?       |   uncle      |          |
-|   | 叔母 / 伯母さん |           |   oji?       |   aunt      |          |
-|   |  |           |   /obaasan       |   grandmother      |          |
-|   |  |           |          |   grandfather      |          |
-|   |  |           |   fujin / okusan       |   wife     |          |
-|   |  |           |   goshujin / otto       |   husband      |          |
-|   |  |           |   jinkou       |    population     |          |
-|   |  |           |   kuni       |    nation / country     |          |
-|   |  |           |          |    kingdom     |          |
-|   |  |           |          |    empire     |          |
-|   |  |           |          |         |          |
+| 叔父  | 叔父 / 伯父 |   shufu        |   oji(san) / oji(san)       |   uncle      |          |
+| 阿姨 / 叔母  | 叔母 / 伯母さん |   ayi / shumu        |   oba / obasan       |   aunt      |          |
+| 祖母  | 祖母 / お祖母さん |     zumu      |  sobo / oba**a**san       |   grandmother      |          |
+| 祖父  | 祖父 / お祖父さん |     zufu      |    sofu / oji**i**san      |   grandfather      |          |
+| 妻子 / 夫人  | 婦人 / 夫人 / 奥さん |    qizi / furen       |   fujin / fujin / okusan       |   wife     |          |
+| 丈夫  | ご主人 |    zhangfu       |   goshujin / otto       |   husband      |          |
+| 人口  | 人口 |    renkou       |   jinkou       |    population     |          |
+| 国家  | 国 / 国家 |    guojia       |   kuni / kokka      |    nation / country / state     |          |
+| 王国  | 王国 |     wangguo      |    oukoku      |    kingdom     |          |
+| 帝国  | 帝国  |    diguo       |    teikoku      |    empire     |          |
+| 天堂  | 天国 |    tiantang       |   tengoku       |     heaven    |          |
+| 地狱  | 地獄 |    diyu       |   jigoku       |     hell    |          |
 
 
 ## The Machinery
