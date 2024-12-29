@@ -1,5 +1,7 @@
 # cn-jp-contrast
 
+> My collection of words to compare with Japanese, so I can learn Chinese.
+
 ## The World
 
 | Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
@@ -101,8 +103,8 @@
 |  兔   | 兎 |    tu       |  usagi        |   rabbit      |          |
 |  蛇  | 蛇 |    she       |  hebi        |   snake      |          |
 |  长颈鹿  | 麒麟 |   changjinglu        |     kirin     |   giraffe      |          |
-|  鸭子  | 鴨 |    yazi       |   kamo       |   duck      |   Dictionary told me 鸭子 means a male prostitute in slang. xD       |
-| 海龟   | 亀 |    haigui       |   kame       |   turtle      |    Dictionary told me "龟" also means cuckold in slang. xD      |
+|  鸭子  | 鴨 |    yazi       |   kamo       |   duck      |          |
+| 海龟   | 亀 |    haigui       |   kame       |   turtle      |          |
 | 狐 / 狐狸   | 狐 |    hu / huli       |   kitsune       |   fox      |          |
 | 鹿   | 鹿 |    lu       |   shika       |   deer      |          |
 |  蝙蝠  | 蚊食鳥 / 蝙蝠 |   bianfu        |    kakuidori / koumori      |   bat      |          |
@@ -110,7 +112,7 @@
 |  刺猬  | 針鼠 |   ciwei        |    harinezumi      |   hedgehog      |   Literarily "Needle rat" in Japanese.       |
 | 枭 / 鸮   | 梟  |     xiao / xiao      |    fukurou      |   owl      |          |
 | 青蛙   | 蛙  |    qingwa       |   kaeru       |   frog      |          |
-|    | 鶴  |          |   tsuru       |   crane      |          |
+| 鹤   | 鶴  |    he      |   tsuru       |   crane      |          |
 
 
 ## The Humans
@@ -150,13 +152,26 @@
 | --- | --- | --------  | -------- | ------- | -------- |
 |   |  |           |          |         |          |
 
-## Colours
+## The Colours
 
 | Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
 | --- | --- | --------  | -------- | ------- | -------- |
-|   |  |           |          |         |          |
+| 红色  | 赤色 / 紅色  |    hong'se       |   aka'iro / beni'iro       |    red     |          |
+| 绿色  | 緑色 |    lu'se       |    midori'iro      |    green     |          |
+| 蓝色  | 青色 |    lan'se       |   ao'iro       |    blue     |          |
+| 黄色  | 黄色 |   huang'se        |   ki'iro       |    yellow     |          |
+| 白色  | 白色 |   bai'se        |    shiro'iro      |    white     |          |
+| 黑色  | 黒色 |   hei'se        |   kuro'iro       |    black     |          |
+| 橙色  | 橙色 / オレンジ |   cheng'se        |    daidai'iro / orenji      |    orange     |          |
+| 紫色  | 紫色 |   zi'se        |   murasaki'iro       |    purple     |          |
+| 粉红色  | 桃色 / ピンク |   fenhong'se        |  momo'iro / pinku       |    pink     |          |
+| 灰色  | 灰色 |    hui'se       |   hai'iro       |    gray     |          |
+| 靛青  | 藍色 |   dianqing        |   ai'iro       |    indigo     |          |
+| 棕色  | 茶色 |   zong'se        |    chya'iro      |    brown     |   Tea colour!       |
+| 金  | 金 |    jin       |   kin       |    gold     |          |
+| 银  | 銀 |    yin       |   gin       |    silver     |          |
 
-## Numbers
+## The Numbers
 
 | Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
 | --- | --- | --------  | -------- | ------- | -------- |
@@ -186,9 +201,23 @@
 
 ## Weeks
 
+| Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
+| --- | --- | --------  | -------- | ------- | -------- |
+|   |  |           |          |         |          |
+
 ## Months
 
+| Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
+| --- | --- | --------  | -------- | ------- | -------- |
+|   |  |           |          |         |          |
+
 ## Areas
+
+| Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
+| --- | --- | --------  | -------- | ------- | -------- |
+|   |  |           |          |         |          |
+
+## Tools
 
 | Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
 | --- | --- | --------  | -------- | ------- | -------- |
