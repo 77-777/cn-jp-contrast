@@ -1,6 +1,7 @@
 # cn-jp-contrast
 
 > My collection of words to compare with Japanese, so I can learn Chinese.
+
 > Major simplified script changes from traditional and (for now) some hanzi not in kanji/japanese; on other repository - https://github.com/77-777/hanzi-not-in-kanji
 
 ## The World
