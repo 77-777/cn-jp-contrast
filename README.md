@@ -186,24 +186,26 @@
 
 | Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
 | --- | --- | --------  | -------- | ------- | -------- |
-|   |  |           |          |   iron      |          |
-|   |  |           |          |   copper      |          |
-|   |  |           |          |   tin      |          |
-|   |  |           |          |   gold      |          |
-|   |  |           |          |   silver      |          |
-|   |  |           |          |   steel      |          |
-|   |  |           |          |   bronze      |          |
-|   |  |           |          |    tungsten     |          |
-|   |  |           |          |    diamond     |          |
-|   |  |           |          |   metal      |          |
-|   |  |           |          |   mine      |          |
-|   |  |           |          |   ingot      |          |
-|   |  |           |          |   ore      |          |
-|   |  |           |          |   clay      |          |
-|  泥 | 泥   |    ni       |    doro      |   mud      |          |
-|  泥 | 泥   |    ni       |    doro      |   ruby      |          |
-|  泥 | 泥   |    ni       |    doro      |   emerald      |          |
-|  泥 | 泥   |    ni       |    doro      |   sapphire      |          |
+| 铁  | 鉄 |   tie        |    tetsu      |   iron      |          |
+| 铜  | 銅 |   tong        |    dou      |   copper      |          |
+| 锡  | 錫 |   xi        |    suzu      |   tin      |          |
+| 金  | 金 |   jin        |    kin      |   gold      |          |
+| 银  | 銀 |   yin        |    gin      |   silver      |          |
+| 钢  | 鋼 |   gang        |     hagane     |   steel      |          |
+| 青铜  | 青銅 |    qingtong       |   seidou       |   bronze      |          |
+| 钨  | タングステン |    wu       |    tangusuten      |    tungsten     |          |
+| 钛  | チタン |    tai       |    chitan      |    titanium     |          |
+| 钻石 / 金刚石  | ダイヤモンド |   zuanshi / jingangshi        |    daiyamondo      |    diamond     |          |
+| 金属  | 金属 |   jinshu        |    kinzoku      |   metal      |          |
+| 矿物  | 鉱物 |    kuangwu       |   koubutsu       |   mineral      |          |
+| 矿  | 鉱山 |    kuang       |   kouzan       |   mine      |          |
+| 锭 / 铸块  | 鋳塊 |   ding / ???       |   chyourei       |   ingot      |          |
+| 矿石 | 鉱石 |    kuangshi       |   kouseki       |   ore      |          |
+| 泥土  | 粘土 |    nitu       |   rendo       |   clay      |          |
+| 泥 | 泥   |     ni      |    doro      |   mud      |          |
+| 红宝石  |  ルビー / 紅玉(石)  |    hongbaoshi       |  rubi- / kougyoku        |   ruby      |          |
+| 绿宝石  |  エメラルド / 緑玉(石)  |    lubaoshi       |  emerarudo / ryokugoku        |   emerald      |          |
+| 蓝宝石  |  サファイア / 青玉(石)  |    lanbaoshi       |  safuaia / seigyoku       |   sapphire      |          |
 
 ## The Colours
 
@@ -244,25 +246,81 @@
 | 万  | 万  |    wan       |    man      |    ten thousand     |          |
 | 百万  | 億 |     baiwan      |    oku      |    million     |   There's 亿 in chinese, but it means 100 million instead. :(       |
 
+## Weeks
 
+| Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
+| --- | --- | --------  | -------- | ------- | -------- |
+|   |  |           |          |   week      |          |
+|   |  |           |          |   monday      |          |
+|   |  |           |          |   tuesday      |          |
+|   |  |           |          |   wedneday     |          |
+|   |  |           |          |   thursday      |          |
+|   |  |           |          |   friday      |          |
+|   |  |           |          |   saturday      |          |
+|   |  |           |          |   sunday      |          |
+|   |  |           |          |   weekend      |          |
+
+## Months / Seasons
+
+| Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
+| --- | --- | --------  | -------- | ------- | -------- |
+|   |  |           |          |    month     |          |
+|   |  |           |          |    year     |          |
+|   |  |           |          |    january     |          |
+|   |  |           |          |    february     |          |
+|   |  |           |          |    march     |          |
+|   |  |           |          |    april     |          |
+|   |  |           |          |    may     |          |
+|   |  |           |          |    june     |          |
+|   |  |           |          |    july     |          |
+|   |  |           |          |    august     |          |
+|   |  |           |          |    september     |          |
+|   |  |           |          |    october     |          |
+|   |  |           |          |    november     |          |
+|   |  |           |          |    december     |          |
+|   |  |           |          |    Summer     |          |
+|   |  |           |          |    Spring     |          |
+|   |  |           |          |    Winter     |          |
+|   |  |           |          |    Autumn     |          |
 
 ## Verbs
 
 | Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
 | --- | --- | --------  | -------- | ------- | -------- |
-|   |  |           |          |         |          |
-
-## Weeks
-
-| Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
-| --- | --- | --------  | -------- | ------- | -------- |
-|   |  |           |          |         |          |
-
-## Months
-
-| Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
-| --- | --- | --------  | -------- | ------- | -------- |
-|   |  |           |          |         |          |
+|   |  |           |          |    To eat     |          |
+|   |  |           |          |    To drink     |          |
+|   |  |           |          |    To run     |          |
+|   |  |           |          |    To walk     |          |
+|   |  |           |          |    To jump     |          |
+|   |  |           |          |    To fly     |          |
+|   |  |           |          |    To do     |          |
+|   |  |           |          |    To go     |          |
+|   |  |           |          |    To work     |          |
+|   |  |           |          |    To make     |          |
+|   |  |           |          |    To die     |          |
+|   |  |           |          |    To be born     |          |
+|   |  |           |          |    To leave     |          |
+|   |  |           |          |    To return     |          |
+|   |  |           |          |    To enter     |          |
+|   |  |           |          |    To exit     |          |
+|   |  |           |          |    To drive     |          |
+|   |  |           |          |    To stand     |          |
+|   |  |           |          |    To sit     |          |
+|   |  |           |          |    To grab / take     |          |
+|   |  |           |          |    To put     |          |
+|   |  |           |          |    To swim     |          |
+|   |  |           |          |    To see     |          |
+|   |  |           |          |    To hear     |          |
+|   |  |           |          |    To cry     |          |
+|   |  |           |          |    To create     |          |
+|   |  |           |          |    To think     |          |
+|   |  |           |          |    To forget     |          |
+|   |  |           |          |    To remember     |          |
+|   |  |           |          |    To learn     |          |
+|   |  |           |          |    To train     |          |
+|   |  |           |          |    To appear     |          |
+|   |  |           |          |    To sail     |          |
+|   |  |           |          |    To dissapear     |          |
 
 ## Areas / Buildings
 
@@ -275,3 +333,13 @@
 | Chinese Version  | Japanese Version  | Chinese Pronunciation  | Japanese Pronunciation | English Word | Comments & Misc |
 | --- | --- | --------  | -------- | ------- | -------- |
 |   |  |           |          |         |          |
+
+## Cardinal Points
+
+## Directions
+
+## Particles
+
+## Pronouns
+
+## Interogatives
