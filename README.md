@@ -369,3 +369,44 @@
 ## Pronouns
 
 ## Interogatives
+
+## Miscellaneous
+
+明白
+Then
+So
+真不错
+唉呀 - interjection
+酱 - "chan"
+理所应当地
+Please
+Alright
+Okay
+To can?
+To do
+To must / must.
+里
+这里
+这么
+去了 - can't/coming? 
+不要 - don't. 
+To can (as in, sure, possible)
+真的
+关系
+了
+成 - the naru. To become.
+给
+被?
+糟糕 - oops
+那
+这
+之后
+做 - the Chinese "to do" / shiteiru  - From "to make"?
+要
+也
+吗
+吧
+需
+得
+是
+地 - sometimes considered as "-ly" as the japanese 的 ?
